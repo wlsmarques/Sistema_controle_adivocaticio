@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SistemaControleAdvocaticioServico/1.0.0": {
+        "dependencies": {
+          "SistemaControleAdvocaticio.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SistemaControleAdvocaticioServico.dll": {}
+        }
+      },
+      "SistemaControleAdvocaticio.Dominio/1.0.0": {
+        "runtime": {
+          "SistemaControleAdvocaticio.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaControleAdvocaticioServico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaControleAdvocaticio.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

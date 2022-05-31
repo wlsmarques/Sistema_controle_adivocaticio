@@ -1,0 +1,21 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.TipoAgendamentoViewModel
+
+@{
+    ViewData["Title"] = "Tipo de agendamento - Cadastro";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Inserir" asp-controller="TipoAgendamento">
+        <div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="Descricao" class="fw-bold"></label>
+                <input asp-for="Descricao" type="text" class="form-control form-control-user" id="idDescricao" aria-describedby="emailHelp" placeholder="Informe a descrição do tipo de agendamento">
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+        </div>
+
+        <hr>
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Cadastrar</button>
+    </form>
+</div>

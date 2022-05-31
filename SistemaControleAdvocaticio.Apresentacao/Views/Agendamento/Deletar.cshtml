@@ -1,0 +1,46 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.AgendamentoViewModel
+
+@{
+    ViewData["Title"] = "Agendamento - Excluir";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Deletar" asp-controller="Agendamento">
+        <input asp-for="Codigo" type="hidden" id="idCodigo" />
+
+        <h3>Deseja realmente excluir o Agendamento : @(Model.Codigo)?</h3>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ClienteCodigo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ClienteCodigo)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.ProcessoCodigo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.ProcessoCodigo)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.TipoAgendamentoCodigo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.TipoAgendamentoCodigo)
+            </dd>
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.DataAgendamento)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.DataAgendamento)
+            </dd>
+
+
+        </dl>
+
+        <hr />
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Excluir</button>
+    </form>
+</div>

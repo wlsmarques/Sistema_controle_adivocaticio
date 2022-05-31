@@ -1,0 +1,28 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.ProcessoViewModel
+
+@{
+    ViewData["Title"] = "Processo - Excluir";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Deletar" asp-controller="Processo">
+        <input asp-for="Codigo" type="hidden" id="idCodigo" /> 
+        
+        <h3>Deseja realmente excluir o processo : @(Model.Codigo)?</h3>
+        <hr />
+        <dl class="row">
+            <dt class="col-sm-2">
+                @Html.DisplayNameFor(model => model.Codigo)
+            </dt>
+            <dd class="col-sm-10">
+                @Html.DisplayFor(model => model.clientecodigo)
+            </dd>
+            
+            
+        </dl>
+
+        <hr />
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Excluir</button>
+    </form>
+</div>

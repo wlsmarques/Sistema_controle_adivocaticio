@@ -1,0 +1,37 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.ClienteViewModel
+
+@{
+    ViewData["Title"] = "Cliente - Cadastro";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Inserir" asp-controller="Cliente">
+        <div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="Cpf" class="fw-bold"></label>
+                <input asp-for="Cpf" type="text" class="form-control form-control-user" id="idCpf" aria-describedby="emailHelp" placeholder="Informe o CPF do cliente">
+                <span asp-validation-for="Cpf" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="Nome"></label>
+                <input asp-for="Nome" type="text" class="form-control form-control-user" id="idNome" aria-describedby="emailHelp" placeholder="Informe o nome do cliente">
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="Endereco"></label>
+                <input asp-for="Endereco" type="text" class="form-control form-control-user" id="idEndereco" aria-describedby="emailHelp" placeholder="Informe o endereço do cliente">
+                <span asp-validation-for="Endereco" class="text-danger"></span>
+            </div>
+        </div>
+
+        <hr>
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Cadastrar</button>
+    </form>
+</div>

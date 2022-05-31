@@ -1,0 +1,20 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.HomeViewModel
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Login";
+}
+
+<form class="user" asp-action="EsqueceuSenha" asp-controller="Home">
+    <div class="form-group">
+        <input asp-for="Login" type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Informe seu endereço de Email...">
+        <span asp-validation-for="Login" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <input asp-for="Senha" type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Informe sua senha">
+        <span asp-validation-for="Senha" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Login</button>
+</form>

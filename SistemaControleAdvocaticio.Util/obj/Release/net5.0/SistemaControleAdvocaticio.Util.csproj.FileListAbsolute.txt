@@ -1,0 +1,36 @@
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.deps.json
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.pdb
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.AssemblyReference.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfoInputs.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfo.cs
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.CoreCompileInputs.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\refint\SistemaControleAdvocaticio.Util.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.pdb
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\ref\SistemaControleAdvocaticio.Util.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.deps.json
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\ref\SistemaControleAdvocaticio.Util.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.pdb
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.AssemblyReference.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfoInputs.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfo.cs
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.CoreCompileInputs.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\ref\SistemaControleAdvocaticio.Util.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.deps.json
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\ref\SistemaControleAdvocaticio.Util.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\bin\Release\net5.0\SistemaControleAdvocaticio.Util.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.AssemblyReference.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfoInputs.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.AssemblyInfo.cs
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.csproj.CoreCompileInputs.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\ref\SistemaControleAdvocaticio.Util.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Util\obj\Release\net5.0\SistemaControleAdvocaticio.Util.pdb

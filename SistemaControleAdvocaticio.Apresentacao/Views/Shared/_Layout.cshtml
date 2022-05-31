@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Sistema de Controle Advocatício</title>
+    <link rel="stylesheet" href="~/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+
+
+
+
+
+<body class="bg-gradient-primary" style="background-color:aliceblue">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Sistema de Controle Advocatício</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row flex-nowrap">
+            <div class="col-auto col-md-3 col-xl-2 px-sm-2 px-0 bg-gradient-light">
+                <div class="d-flex flex-column align-items-center align-items-sm-start px-3 pt-2 text-white min-vh-100">
+                    <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
+                        <li class="nav-item">
+                            <a class="nav-link align-middle px-0" asp-area="" asp-controller="Home" asp-action="Index">
+                                <i class="fs-4 bi-house"></i> <span class="ms-1 d-none d-sm-inline">Home</span>
+                            </a>
+                        </li>
+
+                        <li>
+                            <a href="#submenuCliente" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline"><b>Cliente</b></span>
+                            </a>
+                            <ul class="collapse show nav flex-column ms-1" id="submenuCliente" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Cliente" asp-action="Inserir">Cadastrar</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Cliente" asp-action="Listar">Listar</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#submenuProcesso" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline"><b>Processo</b></span>
+                            </a>
+                            <ul class="collapse show nav flex-column ms-1" id="submenuProcesso" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Processo" asp-action="Inserir">Cadastrar</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Processo" asp-action="Listar">Listar</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#submenuAgendamento" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline"><b>Agendamento</b></span>
+                            </a>
+                            <ul class="collapse show nav flex-column ms-1" id="submenuAgendamento" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Agendamento" asp-action="Inserir">Cadastrar</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Agendamento" asp-action="Listar">Listar</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a href="#submenuTipoAgendamento" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline"><b>Tipo de Agendamento</b></span>
+                            </a>
+                            <ul class="collapse show nav flex-column ms-1" id="submenuTipoAgendamento" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a class="nav-link px-0" asp-area="" asp-controller="TipoAgendamento" asp-action="Inserir">Cadastrar</a>
+                                </li>
+                                <li>
+                                    <a class="nav-link px-0" asp-area="" asp-controller="TipoAgendamento" asp-action="Listar">Listar</a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        @*<li>
+                            <a href="#submenuUsuario" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
+                                <i class="fs-4 bi-speedometer2"></i> <span class="ms-1 d-none d-sm-inline"><b>Usuário</b></span>
+                            </a>
+                            <ul class="collapse show nav flex-column ms-1" id="submenuUsuario" data-bs-parent="#menu">
+                                <li class="w-100">
+                                    <a class="nav-link px-0" asp-area="" asp-controller="Usuario" asp-action="Inserir">Cadastrar</a>
+                                </li>
+                            </ul>
+                        </li>*@
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col py-3">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        </div>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Washington Marques - <a asp-area="" asp-controller="Home" asp-action="Index">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

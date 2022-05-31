@@ -1,0 +1,30 @@
+@model SistemaControleAdvocaticio.Apresentacao.ViewModel.HomeViewModel
+
+@{
+    Layout = "_LayoutLogin";
+    
+    ViewData["Title"] = "SCA - Sistema de Controle Advocatício";
+}
+
+
+<div class="p-5">
+    <div class="text-center">
+        <h1 class="h4 text-gray-900 mb-4">Bem vindo</h1>
+        <h1 class="h4 text-gray-900 mb-4">SCA - Sistema de Controle Advocatício</h1>
+    </div>
+    <form class="user" asp-action="Login" asp-controller="Home">
+        @*<div class="form-group">
+            <input asp-for="Login" type="email" class="form-control form-control-user" id="exampleInputEmail" aria-describedby="emailHelp" placeholder="Informe seu endereço de Email...">
+            <span asp-validation-for="Login" class="text-danger"></span>
+        </div>*@
+
+        @*<div class="form-group">
+            <input asp-for="Senha" type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Informe sua senha">
+            <span asp-validation-for="Senha" class="text-danger"></span>
+        </div>*@
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="id1Login">Login</button>
+    </form>
+</div>
+
+

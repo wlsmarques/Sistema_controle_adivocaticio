@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dados\\SistemaControleAdvocaticio.Dados.csproj": {}
+  },
+  "projects": {
+    "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dados\\SistemaControleAdvocaticio.Dados.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dados\\SistemaControleAdvocaticio.Dados.csproj",
+        "projectName": "SistemaControleAdvocaticio.Dados",
+        "projectPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dados\\SistemaControleAdvocaticio.Dados.csproj",
+        "packagesPath": "C:\\Users\\wluiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dados\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wluiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj": {
+                "projectPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj",
+        "projectName": "SistemaControleAdvocaticio.Dominio",
+        "projectPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj",
+        "packagesPath": "C:\\Users\\wluiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\wluiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,51 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.AgendamentoViewModel
+
+@{
+    ViewData["Title"] = "Agendamento - Cadastro";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Inserir" asp-controller="Agendamento">
+        <div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="Codigo" class="fw-bold"></label>
+                <input asp-for="Codigo" type="text" class="form-control form-control-user" id="idCodigo" aria-describedby="emailHelp" placeholder="Informe o código do Agendamento">
+                <span asp-validation-for="Codigo" class="text-danger"></span>
+            </div>
+        </div>
+<div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="ClienteCodigo" class="fw-bold"></label>
+                <input asp-for="ClienteCodigo" type="text" class="form-control form-control-user" id="idClienteCodigo" aria-describedby="emailHelp" placeholder="Informe o código do Cliente">
+                <span asp-validation-for="ClienteCodigo" class="text-danger"></span>
+            </div>
+        </div>
+<div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="ProcessoCodigo" class="fw-bold"></label>
+                <input asp-for="ProcessoCodigo" type="text" class="form-control form-control-user" id="idProcessoCodigo" aria-describedby="emailHelp" placeholder="Informe o código do Processo">
+                <span asp-validation-for="ProcessoCodigo" class="text-danger"></span>
+            </div>
+        </div>
+<div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="TipoAgendamentoCodigo" class="fw-bold"></label>
+                <input asp-for="TipoAgendamentoCodigo" type="text" class="form-control form-control-user" id="idTipoAgendamentoCodigo" aria-describedby="emailHelp" placeholder="Informe o código do Tipo do Agendamento">
+                <span asp-validation-for="TipoAgendamentoCodigo" class="text-danger"></span>
+            </div>
+        </div>
+<div class="col-sm-12 col-md-6 col-xl-6">
+            <div class="form-group">
+                <label asp-for="DataAgendamento" class="fw-bold"></label>
+                <input asp-for="DataAgendamento" type="text" class="form-control form-control-user" id="idDataAgendamento" aria-describedby="emailHelp" placeholder="Informe a data do Agendamento">
+                <span asp-validation-for="DataAgendamento" class="text-danger"></span>
+            </div>
+        </div>
+
+        
+
+        <hr>
+
+        <button type="submit" class="btn btn-primary btn-user btn-block" id="idLogin">Cadastrar</button>
+    </form>
+</div>

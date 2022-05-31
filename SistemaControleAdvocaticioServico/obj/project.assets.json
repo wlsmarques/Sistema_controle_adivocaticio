@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "SistemaControleAdvocaticio.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/SistemaControleAdvocaticio.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SistemaControleAdvocaticio.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaControleAdvocaticio.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../SistemaControleAdvocaticio.Dominio/SistemaControleAdvocaticio.Dominio.csproj",
+      "msbuildProject": "../SistemaControleAdvocaticio.Dominio/SistemaControleAdvocaticio.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SistemaControleAdvocaticio.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\wluiz\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Nova pasta (2)\\SistemaControleAdvocaticioServico\\SistemaControleAdvocaticioServico.csproj",
+      "projectName": "SistemaControleAdvocaticioServico",
+      "projectPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticioServico\\SistemaControleAdvocaticioServico.csproj",
+      "packagesPath": "C:\\Users\\wluiz\\.nuget\\packages\\",
+      "outputPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticioServico\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\wluiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj": {
+              "projectPath": "C:\\Nova pasta (2)\\SistemaControleAdvocaticio.Dominio\\SistemaControleAdvocaticio.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.AgendamentoViewModel
+
+@{
+    ViewData["Title"] = "Agendamento - Lista";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Listar" asp-controller="Agendamento">
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Agendamento</th>
+                    <th>Código do Cliente</th>
+                    <th>Código do Processo</th>
+                    <th>Código do Tipo de Agendamento</th>
+                    <th>Data do Agendamento</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var agendamento in Model.ListaAgendamento)
+                {
+                    <tr>
+                        <td>@(agendamento.Codigo)</td>
+                        <td>@(agendamento.ClienteCodigo)</td>
+                        <td>@(agendamento.ProcessoCodigo)</td>
+                        <td>@(agendamento.TipoAgendamentoCodigo)</td>
+                        <td>@(agendamento.DataAgendamento)</td>
+                         <td>@Html.ActionLink("Editar", "Editar", new { codigo = agendamento.Codigo })</td>
+                        <td>@Html.ActionLink("deletar", "Deletar", new { id = agendamento.Codigo })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <hr>
+    </form>
+</div>

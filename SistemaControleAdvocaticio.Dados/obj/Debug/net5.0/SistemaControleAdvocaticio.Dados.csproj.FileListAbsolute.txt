@@ -1,0 +1,54 @@
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.deps.json
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\ref\SistemaControleAdvocaticio.Dados.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.pdb
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.AssemblyReference.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfoInputs.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfo.cs
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CoreCompileInputs.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CopyComplete
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\ref\SistemaControleAdvocaticio.Dados.dll
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.AssemblyReference.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfoInputs.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfo.cs
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CoreCompileInputs.cache
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\ref\SistemaControleAdvocaticio.Dados.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.deps.json
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.json
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.dev.json
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\ref\SistemaControleAdvocaticio.Dados.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.dll
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.pdb
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CopyComplete
+F:\Pessoal\SCA\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.genruntimeconfig.cache
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.json
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.dev.json
+D:\Projetos .NET\SistemaControleAdvocaticio\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.genruntimeconfig.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.deps.json
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.json
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.runtimeconfig.dev.json
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\bin\Debug\net5.0\SistemaControleAdvocaticio.Dominio.pdb
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.AssemblyReference.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfoInputs.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.AssemblyInfo.cs
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CoreCompileInputs.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.csproj.CopyComplete
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\refint\SistemaControleAdvocaticio.Dados.dll
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.pdb
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\SistemaControleAdvocaticio.Dados.genruntimeconfig.cache
+C:\Projeto\SistemaControleAdvocaticio\SistemaControleAdvocaticio.Dados\obj\Debug\net5.0\ref\SistemaControleAdvocaticio.Dados.dll

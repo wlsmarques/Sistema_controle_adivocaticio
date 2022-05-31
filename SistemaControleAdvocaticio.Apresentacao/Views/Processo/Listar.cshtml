@@ -1,0 +1,32 @@
+﻿@model SistemaControleAdvocaticio.Apresentacao.ViewModel.ProcessoViewModel
+
+@{
+    ViewData["Title"] = "Processo - Lista";
+}
+
+<div class="p-5">
+    <form class="user" asp-action="Listar" asp-controller="Processo">
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Processo</th>
+                    <th>Código do Cliente</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var processo in Model.ListaProcesso)
+                {
+                    <tr>
+                        <td>@(processo.Codigo)</td>
+                        <td>@(processo.clientecodigo)</td>
+                         <td>@Html.ActionLink("Editar", "Editar", new { codigo = processo.Codigo })</td>
+                        <td>@Html.ActionLink("deletar", "Deletar", new { id = processo.Codigo })</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <hr>
+    </form>
+</div>

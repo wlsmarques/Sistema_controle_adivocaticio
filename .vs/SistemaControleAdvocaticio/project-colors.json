@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a3c5fb3-bebb-459e-832c-7050d81079c3": {
+      "ProjectGuid": "1a3c5fb3-bebb-459e-832c-7050d81079c3",
+      "DisplayName": "SistemaControleAdvocaticio.Apresentacao",
+      "ColorIndex": 0
+    },
+    "1e15854d-91f6-48cf-9f97-662f8acbd69a": {
+      "ProjectGuid": "1e15854d-91f6-48cf-9f97-662f8acbd69a",
+      "DisplayName": "SistemaControleAdvocaticio.Dominio",
+      "ColorIndex": 1
+    },
+    "ec04609b-2682-4ef8-8ac0-aed7b067444b": {
+      "ProjectGuid": "ec04609b-2682-4ef8-8ac0-aed7b067444b",
+      "DisplayName": "SistemaControleAdvocaticio.Dados",
+      "ColorIndex": 2
+    },
+    "038c63b4-c205-4b0f-bbc5-faa7c2baa0e9": {
+      "ProjectGuid": "038c63b4-c205-4b0f-bbc5-faa7c2baa0e9",
+      "DisplayName": "SistemaControleAdvocaticio.Util",
+      "ColorIndex": 3
+    },
+    "843678da-ed51-4cb3-91fa-084469b90159": {
+      "ProjectGuid": "843678da-ed51-4cb3-91fa-084469b90159",
+      "DisplayName": "SistemaControleAdvocaticioServico",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
